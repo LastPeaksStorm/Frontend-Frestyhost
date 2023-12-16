@@ -1,5 +1,5 @@
 # FrestyHost
-Fictitious landing for a Cloud Hosting organisation.
+Fully designed landing for a Cloud Hosting organisation with ficticious Back-End.
 # Watch it: https://frestyhost.works
 -----------------------------------------------------------------
 ## Main Technologies:
